@@ -1,0 +1,11 @@
+{
+  "name": "com.kalinovych.unityrecorder",
+  "version": "1.0.0",
+  "displayName": "Unity Recorder Utility",
+  "description": "Allows to control the UnityRecorder from the code",
+  "unity": "2020.3",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.recorder": "2.5.7"
+  }
+}
